@@ -6,3 +6,7 @@ This repository contains multiple files, reflecting the projects made to complet
 
 1. FourSquare API testing
 2. Empty Jupyter Notebook assignment
+3. TorontoDataScrape
+  a. This data set contains a K-Means Clustering test on Torontian venues, by using the Foursquare API and fetching Postal codes, Coordinates from Wikipedia.
+  
+  
